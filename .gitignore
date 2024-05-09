@@ -2,3 +2,4 @@ replylabcamp/
 sa-keys/
 venv/
 src/.chroma/*
+.DS_Store
